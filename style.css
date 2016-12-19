@@ -1,0 +1,50 @@
+@import "imported.css";
+p{
+  color: red;
+  text-align: right;
+  text-decoration: overline;
+}
+ul{
+  color: blue;
+}
+.menu{
+  color: red;
+  background-color: yellow;
+}
+.active{
+  text-decoration: underline;
+}
+.input-text{
+  color: red;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+.main-link{
+  text-decoration: line-through;
+}
+div p{
+  color: green;
+}
+.menu-item>a + ul{
+  color: rgb(24, 177, 20);
+  text-decoration: line-through;
+  background-color: rgb(208, 178, 22);
+}
+.menu-item>a{
+  color: rgb(24, 177, 20);
+  text-decoration: line-through;
+}
+.wrapper{
+  padding: 20px;
+  background-color: green;
+  width: 80%;
+}
+.box3{
+  width: 200px;
+  background-color: blue;
+}
+.box4{
+  font-size: 45px;
+}

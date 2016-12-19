@@ -1,0 +1,48 @@
+    img{
+      width: 400px ;
+    }
+.contentmiddle{
+  float: left ;
+    line-height: 90px ;
+  padding-left: 20px ;
+  padding-right: 20px ;
+  background-color: pink ;
+  border-left: 2px solid rgb(13, 47, 170) ;
+}
+.image{
+  width: 20% ;
+  float: left ;
+  background-color: red ;
+}
+.contentright{
+  width: 60% ;
+  float: left ;
+  padding-left: 20px ;
+  padding-right: 20px ;
+  background-color: yellow ;
+  border-left: 2px solid rgb(13, 47, 170) ;
+}
+.header{
+  text-transform: uppercase;
+  padding-left: 200px ;
+    background: linear-gradient(to bottom, #0e68a1, #65b9f6);
+    padding: 10px ;
+    border: 1px solid #003edd ;
+    color: white ;
+    font-family: Arial ;
+}
+.footer{
+  background-color: orange ;
+  text-align: center;
+  float: left;
+  width: 100% ;
+}
+li{
+  list-style: none;
+}
+.sidebar{
+  background-color: blue ;
+  line-height: 90px ;
+  float: left;
+  padding-right: 10px ;
+}
